@@ -1,3 +1,8 @@
+<video style="width:100%" controls>
+  <source src="http://7xslga.com1.z0.glb.clouddn.com/nitrous.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
 思客的教程都是基于 MacOS 创建的，在大部分 Linux 系统上面的差异并不大，不过 Windows 的环境就会相差很多。除非你很熟悉 Windows 下的命令行和 Node.js 开发环境，否则我们会建议你先使用一个云端的开发环境，比如下面我们要介绍的 [Nitrous.io](https://www.nitrous.io)。
 
 首先去 nitrous.io 上面注册一个帐户，可以直接使用你的 github 帐户。
