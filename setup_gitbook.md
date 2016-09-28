@@ -17,7 +17,7 @@
 gitbook 的创建一般就花几分钟，但也有遇到过几天还显示没有成功的(再一次吐槽一下 gitbook 的服务器质量...)。解决方法：
 
 1. 删掉原有 gitbook, 从新创建一个；
-2. 直接尝试访问 https://{your-github-id}.gitbooks.io/{gitbook-name}/content，如果能看到内容的话可以忽略 gitbook 的提示。
+2. 直接尝试访问 https://{your-github-id}.gitbooks.io/{gitbook-name}/content ，如果能看到内容的话可以忽略 gitbook 的提示。
 
 ## 坑01 - gitbook 和 github 之间的连接没有获得授权
 你会看到如下图的错误：
