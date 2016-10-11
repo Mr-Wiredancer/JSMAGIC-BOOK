@@ -18,7 +18,7 @@ function Class(data, parent) {
   return myClass;
 }
 ...
-```javascript
+```
 
 ## __super__ 属性
 
